@@ -102,9 +102,9 @@
     }
   </style> 
   <div class="field"> 
-   <h6 text align="center">complete neumorphic Calculator project by Vansh</h6>
+   <h6 text align="center">complete graphical Calculator project by Vansh</h6>
    <br> 
-   <p text align="center">May u like this <br> created: by quadtech</p> 
+   <p text align="center">May u like this <br> created: by Vansh</p> 
    <main> 
     <input type="number" value="0"> 
     <div class="keys"> 
